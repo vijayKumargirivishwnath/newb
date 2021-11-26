@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-02T13:54:29 IST" name="Default suite" finished-at="2021-11-02T13:55:09 IST" duration-ms="39497">
+    <groups>
+    </groups>
+    <test started-at="2021-11-02T13:54:29 IST" name="Default test" finished-at="2021-11-02T13:55:09 IST" duration-ms="39497">
+      <class name="propertiesFile.LoginMassageTest">
+        <test-method signature="invalididpassword()[pri:0, instance:propertiesFile.LoginMassageTest@4f67eb2a]" started-at="2021-11-02T13:54:29 IST" name="invalididpassword" finished-at="2021-11-02T13:55:09 IST" duration-ms="39422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalididpassword -->
+      </class> <!-- propertiesFile.LoginMassageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
